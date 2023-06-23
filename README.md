@@ -1,4 +1,7 @@
-### Hi there 👋
+# Eae, tranquilo? 👋
+
+### Meu nome é Abelardo, sou estudante de informática e entusiasta em qualquer coisa relacionada à eletrônica
+
 
 <!--
 **AbelardoOk/AbelardoOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
