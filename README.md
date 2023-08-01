@@ -1,7 +1,7 @@
 ## Eae, eu sou o Abelardo Palácios 👋
 
 - 🔭 Desenvolvedor FullStack (NodeJs e React)
-- 🌱 Estudando TypeScript, NodeJS e Python
+- 🌱 Estudando TypeScript, Python e C++
 - ⚡ Atualmente cursando técnico em informática
 
 <div style="display: inline_block"><br>
