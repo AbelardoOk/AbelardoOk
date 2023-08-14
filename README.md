@@ -10,7 +10,7 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" src="https://giphy.com/embed/NVBR6cLvUjV9C"/ >
+  <img align="right" src="https://media.discordapp.net/attachments/774432392818589746/1140779033156665487/giphy.gif"/ >
 </div>
 
 ##
