@@ -1,4 +1,4 @@
-## Eae, eu sou o Abelardo Palácios 👋
+## Eae, me chamo Abelardo Palácios 👋
 
 - 🔭 Desenvolvedor FullStack (NodeJs e NextJs)
 - 🌱 Estudando TypeScript, Python e C++
